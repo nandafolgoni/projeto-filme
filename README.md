@@ -27,7 +27,3 @@ sinopse.
 
 Também foi adicionada uma imagem relacionada à série e um link
 para uma página com mais informações.
-
-O projeto utiliza as principais tags HTML estudadas em aula,
-como <html>, <head>, <body>, <title>, <h1>, <h2>, <p>, <img>,
-<figure> e <a>.
